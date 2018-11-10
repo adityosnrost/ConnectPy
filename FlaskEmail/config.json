@@ -1,0 +1,10 @@
+{
+  "database": {
+    "url": "localhost",
+    "dbname": "eventsharelog",
+    "username": "username",
+    "password": "",
+    "connect_timeout": 1
+  }
+
+}
